@@ -1,2 +1,2 @@
 # BGA-2
-Alle Materialien
+The purpose is to record the project content
